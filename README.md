@@ -2,8 +2,6 @@
 
 Welcome to my portfolio of cloud projects. This repository provides an overview of my work as a Cloud Solutions Architect and Technical Trainer, with hands-on experience across Microsoft Azure and Oracle Cloud Infrastructure (OCI). I've delivered scalable, secure, and cost-effective solutions across multiple industries, including finance, telecom, government, education, retail, cosmetics, and travel.
 
-# 📘 Cloud Projects Portfolio – Index
-
 ## 🔎 Index by Industry
 
 ### 💼 Financial Services
