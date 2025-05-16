@@ -1,29 +1,95 @@
 # tech-portfolio
 About my participation in the projects.
 
-## Telecommunications  
-**Claro Brazil**  
-# CDR Data Optimization Project
-## Overview  
-This project successfully optimized the **storage and processing of Call Detail Record (CDR) data**, improving efficiency, scalability, and cost-effectiveness. Previously, the data was stored in an **Oracle Exadata on-premises environment**, requiring frequent infrastructure upgrades. The solution migrated the data to **Oracle Autonomous Data Warehouse (ADW)** running on **Oracle Cloud Infrastructure (OCI)**, leveraging **Parquet Snappy** and **CSV GZIP** compression for efficient long-term storage. The data was segmented following an **80-20 strategy**, where **20% remained in ADW for fast querying**, while **80% was stored externally in Object Storage**, ensuring optimized retrieval performance.  
+# 🌐 Cloud Projects Portfolio
 
-## My Role in the Project  
-I played a key role in analyzing and defining the architecture for storage optimization, ensuring a seamless transition to cloud-based infrastructure. I was responsible for:  
-- **Assessing technical requirements** to improve performance and cost efficiency.  
-- **Managing the ingestion pipeline** for handling **2TB of daily data**, ensuring stable and scalable operations.  
-- **Optimizing query performance**, leveraging advanced compression and storage strategies to reduce retrieval times.  
-- **Ensuring Alteryx compatibility**, providing efficient data access for analysis and business intelligence applications.  
-- **Implementing Lifecycle Policies**, managing Object Storage to optimize data retention and retrieval.  
-
-## Technologies Used  
-- **Oracle Autonomous Data Warehouse (ADW)**  
-- **Oracle Cloud Infrastructure (OCI)**  
-- **Parquet Snappy & CSV GZIP Compression**  
-- **Oracle Object Storage (Standard & Archive)**  
-- **Alteryx**  
-- **OCI CLI for Storage Management**  
-
-## Project Success  
-This initiative established a **scalable, cloud-based architecture for large-scale data processing**, reducing operational costs while enhancing data retrieval efficiency. The implementation improved **query performance**, **data lifecycle management**, and **scalability**, setting a new benchmark for enterprise-level data storage solutions.  
+Welcome to my portfolio of cloud projects. This repository provides an overview of my work as a Cloud Solutions Architect and Technical Trainer, with hands-on experience across Microsoft Azure and Oracle Cloud Infrastructure (OCI). I've delivered scalable, secure, and cost-effective solutions across multiple industries, including finance, telecom, government, education, retail, cosmetics, and travel.
 
 ---
+
+## 💼 Financial Services
+
+### **Banco Bradesco**
+**Project**: Azure Landing Zone for Digital Bank (Next)  
+Designed a secure and scalable Azure foundation, including AKS networking and hybrid connectivity with mainframe systems. Implemented high-availability architecture using ExpressRoute and VPN failover.
+
+### **Caixa Econômica Federal (CEF)**
+- **Data Platform Cost Optimization**: Refactored Cosmos DB, Databricks, and Synapse workloads, saving over $21K/month.
+- **Caixa TEM App**: Contributed to architecture evaluation for geolocation services.
+- **Open Banking**: Participated in CSA Tech Talk defining cloud-native strategies on Azure.
+
+---
+
+## 📡 Telecommunications
+
+### **SKY Brasil**
+**Project**: OCI Migration for SAS Marketing  
+Led network architecture for the first global deployment of Oracle Autonomous Database, enabling full datacenter migration.
+
+### **Claro Brasil**
+**Project**: Urban Mobility (CDR/EDR Optimization)  
+Architected ADW solution on OCI, optimized data ingestion and query performance, reducing costs and improving scalability.
+
+---
+
+## 🏛️ Government
+
+Projects delivered to multiple public sector organizations in São Paulo:
+- **Prodesp**: Azure DevOps licensing and provisioning.
+- **SSP-SP**: Cost optimization for Detecta via Reserved Instances.
+- **SESI/SENAI-SP**: Validated encrypted traffic over ExpressRoute.
+- **SEDUC-SP**: Provided 2nd-level Azure support in collaboration with Kumulus.
+- **Metrô-SP**: Led DevOps, API, and WAF review projects.
+- **TJSP**: Reviewed VMware licensing and contract clauses.
+- **FIESP**: Evaluated ExpressRoute and VPN redundancy.
+
+---
+
+## 🎓 Education
+
+### **YDUQS (Estácio)**
+**Project**: ExpressRoute Implementation  
+Led stakeholder coordination and technical delivery across YDUQS, Estácio, Microsoft, and Lumen.
+
+### **Kroton (Cogna Educação)**
+Led and supported initiatives including:
+- Azure Lab Services deployment for student sandboxes.
+- Azure AD B2C identity platform integration.
+- AKS node pool optimization and cost control.
+- DevTest environment governance.
+- Security incident detection and mitigation.
+- Stakeholder management across clients and partners.
+
+---
+
+## 🛒 Wholesale & Retail
+
+### **Makro**
+**Project**: OCI Migration (Oracle Retail & EBS)  
+Designed standardized OCI infrastructure across five countries, automating provisioning and supporting over 50 environment clones annually.
+
+### **B2W Digital**
+**Project**: Migration to Oracle Cloud at Customer (ExaCC & OCC)  
+Contributed to IT infrastructure assessments, technical planning, and financial modeling. Supported a project generating over $8M in new contracts and cost savings.
+
+---
+
+## 💄 Cosmetics & Personal Care
+
+### **Natura**
+**Project**: Oracle ATG Migration to OCI  
+Designed hybrid AWS/OCI architecture, provisioned infrastructure using Terraform, and ensured secure, performant integration with Exadata.
+
+---
+
+## ✈️ Travel and Tourism
+
+### **Smiles**
+**Project**: OCI Migration & Cost Governance  
+Led network architecture design, planned phased migration, managed service usage and cloud credit optimization, and ensured smooth service operations.
+
+---
+
+## 📫 Contact
+
+For more details or to connect, feel free to reach out via [LinkedIn](https://www.linkedin.com/in/renatocamara) or email me at camarabox@gmail.com.
