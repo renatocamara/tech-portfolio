@@ -2,6 +2,42 @@
 
 Welcome to my portfolio of cloud projects. This repository provides an overview of my work as a Cloud Solutions Architect and Technical Trainer, with hands-on experience across Microsoft Azure and Oracle Cloud Infrastructure (OCI). I've delivered scalable, secure, and cost-effective solutions across multiple industries, including finance, telecom, government, education, retail, cosmetics, and travel.
 
+# 📘 Cloud Projects Portfolio – Index
+
+## 🔎 Index by Industry
+
+### 💼 Financial Services
+- [Banco Bradesco](#banco-bradesco)
+- [Caixa Econômica Federal (CEF)](#caixa-econômica-federal-cef)
+
+### 📡 Telecommunications
+- [SKY Brasil](#sky-brasil)
+- [Claro Brasil](#claro-brasil)
+
+### 🏛️ Government
+- [Prodesp](#prodesp)
+- [SSP-SP](#ssp-sp)
+- [SESI/SENAI-SP](#sesisenai-sp)
+- [SEDUC-SP](#seduc-sp)
+- [Metrô de São Paulo](#metrô-de-são-paulo)
+- [TJSP](#tjsp)
+- [FIESP](#fiesp)
+
+### 🎓 Education
+- [YDUQS (Estácio)](#yduqs-estácio)
+- [Kroton (Cogna Educação)](#kroton-cogna-educação)
+
+### 🛒 Wholesale & Retail
+- [Makro](#makro)
+- [B2W Digital](#b2w-digital)
+
+### 💄 Cosmetics & Personal Care
+- [Natura](#natura)
+
+### ✈️ Travel and Tourism
+- [Smiles](#smiles)
+
+
 ---
 
 ## 💼 Financial Services
